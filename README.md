@@ -118,7 +118,7 @@ The application is built with a focus on **modularity and scalability**:
 
 ## 🌐 Live Demo
 
-*Add your deployed link here (Vercel / Netlify)*
+https://fin-dashboard-eight.vercel.app 
 
 ---
 
